@@ -1,0 +1,22 @@
+{
+ "schemaVersion": 1,
+ "dataVersion": 2026071901,
+ "generatedAt": "2026-07-19T04:39:26.282Z",
+ "files": [
+  {
+   "name": "data.json",
+   "sha256": "930cba3b0f007f5bef8ec339a2ae750d724a1bed426653abcb15edcf04ed609b",
+   "bytes": 133959
+  },
+  {
+   "name": "lexicon.json",
+   "sha256": "0d4389c87e80ba91b4c401b9c3e9fb91755d7742640271f2c9b3ab7b00085470",
+   "bytes": 15016
+  },
+  {
+   "name": "collected.json",
+   "sha256": "26f99bd403602b686a2f287b2791d3ec417cd98e935e722b529d46b1228e7087",
+   "bytes": 165295
+  }
+ ]
+}
